@@ -1,0 +1,2 @@
+//  Write a c program to store 5 values in appropriate data structure and compute addition for the same, modify the size to store 10
+values and compute addition using array. 
